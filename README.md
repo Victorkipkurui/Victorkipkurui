@@ -1,5 +1,5 @@
 # 💫 Hi:
-🔭 I’m currently working on React and Node projects<br>🌱 I’m currently learning Typescript and React Native<br>💬 Ask me about Data<br>⚡ Fun fact. I love adventures
+🔭 I’m currently working on React and Node projects<br>🌱 I’m currently learning React Native and Dart<br>💬 Ask me about Data<br>⚡ Fun fact. I love adventures
 
 
 # 💻 Tech Stack:
